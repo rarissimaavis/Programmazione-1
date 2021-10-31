@@ -10,11 +10,11 @@ void quadrato(int n)
 		j = 1;
 		while(j <= n) 
 		{
-			printf("* ");
-			++j;
+			printf("*");
+			j++;
 		}
 		printf("\n");
-		++i;
+		i++;
 	}
 }
 int main(void)
