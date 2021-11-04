@@ -1,4 +1,4 @@
-# Esercizi Programmazione 1 🧚
+# Esercizi Programmazione 1 💻📘
 ## primi programmini abbastanza inutili:
 - **tabella**: sequenze di escape
 - **precesucc**: legge un intero e visualizza il valore intero precedente e il successivo
