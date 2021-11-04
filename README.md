@@ -2,5 +2,5 @@
 programmini bruttini
 # *prova*
 **lol** lol
--uno
--due
+- uno
+- due
