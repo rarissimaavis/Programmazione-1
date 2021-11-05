@@ -29,3 +29,5 @@
 - **triangolofor**: stampa un triangolo di asterischi (for)
 - **primi**: test di primalità, controllo fino alla radice quadrata di n (for) 
 - **primi2**: come prima, ma controllo prima se è pari e poi incremento solo i dispari (for)
+## array:
+- **valorialcontrario**: legge un elenco di 10 valori reali e lo ristampa al contrario
