@@ -8,6 +8,7 @@
 - **km**: calcola quanti km percorre una moto con 1 l di benzina sapendo che percorre n km con x l 
 - **parcheggio**: chiede il numero di ore e visualizza il totale da pagare
 - **brokercond**: espressione condizionale per calcolare la commissione
+- **sizeoftipi**: stampa quanti bytes occupa ogni tipo
 ## altri programmini abbastanza inutili ma ora sono funzioni:
 - **alquadrato**: calcola il quadrato di un numero reale 
 - **broker**: quello di prima ma con if else
