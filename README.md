@@ -32,3 +32,4 @@
 - **primi2**: come prima, ma controllo prima se è pari e poi incremento solo i dispari (for)
 ## array:
 - **valorialcontrario**: legge un elenco di 10 valori reali e lo ristampa al contrario
+- **listainversa**: legge una lista di 10 valori, calcola l'inversa e la stampa
