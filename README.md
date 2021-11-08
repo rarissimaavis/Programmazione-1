@@ -33,3 +33,5 @@
 ## array:
 - **valorialcontrario**: legge un elenco di 10 valori reali e lo ristampa al contrario
 - **listainversa**: legge una lista di 10 valori, calcola l'inversa e la stampa
+- **listainversa2**: come l'altro, ma usa solo parte dell'array
+- 
