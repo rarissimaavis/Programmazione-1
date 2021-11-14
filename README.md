@@ -34,4 +34,5 @@
 - **valorialcontrario**: legge un elenco di 10 valori reali e lo ristampa al contrario
 - **listainversa**: legge una lista di 10 valori, calcola l'inversa e la stampa
 - **listainversa2**: come l'altro, ma usa solo parte dell'array
-- 
+- **inseriscielem**: inserisce un elemento in un array in posizione pos (shift a destra, for)
+- **eliminaelem**: elimina un elemento in un array in posizione pos (shift a sinistra, for)
