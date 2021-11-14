@@ -38,4 +38,4 @@
 - **inseriscielem**: inserisce un elemento in un array in posizione pos (shift a destra, for)
 - **eliminaelem**: elimina un elemento in un array in posizione pos (shift a sinistra, for)
 - **ricercaord**: ricerca lineare in un array ordinato (Tu.c dice che è bruttino)
-- **compatta**: modifica un array in modo che elementi consecutivi uguali siano sostituiti da un’unica occorrenza
+- **compatta**: modifica un array in modo che elementi consecutivi uguali siano sostituiti da un’unica occorrenza (shift a sinistra, for)
