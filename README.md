@@ -40,4 +40,5 @@
 - **ricercaord**: ricerca lineare in un array ordinato (Tu.c dice che è bruttino)
 - **compatta**: modifica un array in modo che elementi consecutivi uguali siano sostituiti da un’unica occorrenza (shift a sinistra, for)
 - **ricercabin**: ricerca binaria in un array ordinato
-- 
+- **ioarray**: inserisce valori in un array / stampa valori contenuti in un array
+- **tavolapitagorica**: rappresenta e stampa una tavola pitagorica
