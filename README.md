@@ -41,4 +41,5 @@
 - **compatta**: modifica un array in modo che elementi consecutivi uguali siano sostituiti da un’unica occorrenza (shift a sinistra, for)
 - **ricercabin**: ricerca binaria in un array ordinato
 - **ioarray**: inserisce valori in un array / stampa valori contenuti in un array
+- **bubblesort**: ordina un array scambiando elementi vicini e portando l'elemento maggiore alla fine
 - **tavolapitagorica**: rappresenta e stampa una tavola pitagorica
