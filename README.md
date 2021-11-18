@@ -43,4 +43,5 @@
 - **ricercabin**: ricerca binaria in un array ordinato
 - **ioarray**: inserisce valori in un array / stampa valori contenuti in un array
 - **bubblesort**: ordina un array scambiando elementi vicini e portando l'elemento maggiore alla fine
+- **azzera**: esempio passaggi di parametri per indirizzo per modificare una variabile
 - **tavolapitagorica**: rappresenta e stampa una tavola pitagorica
