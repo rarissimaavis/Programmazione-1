@@ -35,10 +35,11 @@
 - **listainversa**: legge una lista di 10 valori, calcola l'inversa e la stampa
 - **listainversa2**: come l'altro, ma usa solo parte dell'array
 - **ricercaelemento**: ricerca di un elemento di un array
-- **inseriscielem**: inserisce un elemento in un array in posizione pos (shift a destra, for)
-- **eliminaelem**: elimina un elemento in un array in posizione pos (shift a sinistra, for)
+- **inseriscielem**: inserisce un elemento in un array in posizione pos (shift a destra)
+- **eliminaelem**: elimina un elemento in un array in posizione pos (shift a sinistra)
 - **ricercaord**: ricerca lineare in un array ordinato (Tu.c dice che è bruttino)
-- **compatta**: modifica un array in modo che elementi consecutivi uguali siano sostituiti da un’unica occorrenza (shift a sinistra, for)
+- **compatta**: modifica un array in modo che elementi consecutivi uguali siano sostituiti da un’unica occorrenza (shift a sinistra)
+- **differenza**: stampa tutti gli elementi presenti in un array B, ma non in un array A (funzione ricerca, funzione elimina)
 - **ricercabin**: ricerca binaria in un array ordinato
 - **ioarray**: inserisce valori in un array / stampa valori contenuti in un array
 - **bubblesort**: ordina un array scambiando elementi vicini e portando l'elemento maggiore alla fine
