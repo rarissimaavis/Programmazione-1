@@ -41,7 +41,9 @@
 - **compatta**: modifica un array in modo che elementi consecutivi uguali siano sostituiti da un’unica occorrenza (shift a sinistra)
 - **differenza**: stampa tutti gli elementi presenti in un array B, ma non in un array A (funzione ricerca, funzione elimina)
 - **ricercabin**: ricerca binaria in un array ordinato
+- **tavolapitagorica**: rappresenta e stampa una tavola pitagorica
 - **ioarray**: inserisce valori in un array / stampa valori contenuti in un array
 - **bubblesort**: ordina un array scambiando elementi vicini e portando l'elemento maggiore alla fine
+## puntatori:
 - **azzera**: esempio passaggi di parametri per indirizzo per modificare una variabile
-- **tavolapitagorica**: rappresenta e stampa una tavola pitagorica
+- **divisioneintera**: esempio funzione con duplice risultato
