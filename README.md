@@ -44,6 +44,7 @@
 - **tavolapitagorica**: rappresenta e stampa una tavola pitagorica
 - **ioarray**: inserisce valori in un array / stampa valori contenuti in un array
 - **bubblesort**: ordina un array scambiando elementi vicini e portando l'elemento maggiore alla fine
+- **filtrosum**: copia in c gli elementi di a uguali alla somma di due elementi consecutivi di b
 - **armstrong**: azzera i valori di un array che non sono numeri di Armstrong (somma cubi cifre = num) e stampa i valori rimanenti
 ## puntatori:
 - **azzera**: esempio passaggi di parametri per indirizzo per modificare una variabile
