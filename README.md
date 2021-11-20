@@ -48,3 +48,4 @@
 ## puntatori:
 - **azzera**: esempio passaggi di parametri per indirizzo per modificare una variabile
 - **divisioneintera**: esempio funzione con duplice risultato
+- **maxmin**: massimo e minimo di un array
