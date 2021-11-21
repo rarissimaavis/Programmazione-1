@@ -45,8 +45,8 @@
 - **ioarray**: inserisce valori in un array / stampa valori contenuti in un array
 - **bubblesort**: ordina un array scambiando elementi vicini e portando l'elemento maggiore alla fine
 - **compatta2**: genera un secondo vettore B che contiene i numeri contenuti nel primo vettore A senza ripetizioni (funzione ricerca)
-- **filtrosum**: copia in c gli elementi di a uguali alla somma di due elementi consecutivi di b
 - **armstrong**: azzera i valori di un array che non sono numeri di Armstrong (somma cubi cifre = num) e stampa i valori rimanenti
+- **filtrosum**: copia in c gli elementi di a uguali alla somma di due elementi consecutivi di b
 ## puntatori:
 - **azzera**: esempio passaggi di parametri per indirizzo per modificare una variabile
 - **divisioneintera**: esempio funzione con duplice risultato
