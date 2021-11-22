@@ -59,6 +59,7 @@ int main(void)
 	printf("inserisci gli elementi di B: \n");
 	GetLista(B, m);
 	l = intersezione(A, B, n, m, C);
+	printf("gli elementi comuni ad A e B sono: ");
 	StampaLista(C, l);
 	return 0;
 }
