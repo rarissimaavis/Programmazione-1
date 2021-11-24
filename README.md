@@ -52,6 +52,7 @@
 - **numeroperfetto**: se un numero è perfetto, calcola il suo inverso (prova resto 2)
 - **filtradaesami**: azzera gli elementi di un array che non sono "da esame", cioè somma delle cifre = 6 (prova 2020)
 - **quadcubi**: stampa un array b e un array c con rispettivamente i quadrati e i cubi degli elementi di un array a inserito da tastiera (tutorato)
+- **unisci**: costruisce un terzo vettore i cui elementi di posizione pari siano del primo e quelli di posizione dispari del secondo (tutorato)
 ## puntatori: 
 - **azzera**: esempio passaggi di parametri per indirizzo per modificare una variabile
 - **divisioneintera**: esempio funzione con duplice risultato
