@@ -50,6 +50,7 @@
 - **armstrong**: azzera i valori di un array che non sono numeri di Armstrong (somma cubi cifre = num) e stampa i valori rimanenti
 - **filtrosum**: copia in c gli elementi di a uguali alla somma di due elementi consecutivi di b
 - **numeroperfetto**: se un numero (inserito dall'utente) è perfetto, calcola il suo inverso (resto 2)
+- **quadcubi**: stampa un array b e un array c con rispettivamente i quadrati e i cubi degli elementi di un array a inserito da tastiera
 ## puntatori: 
 - **azzera**: esempio passaggi di parametri per indirizzo per modificare una variabile
 - **divisioneintera**: esempio funzione con duplice risultato
