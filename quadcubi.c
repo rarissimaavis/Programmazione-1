@@ -15,30 +15,26 @@ int getarray(int lista[])
 	}
 	return i;
 }
-int quadrato(int n)
+int potenza(int n, int esponente)
 {
-	int n2;
-	n2 = n*n;
-	return n2;
-}
-int cubo(int n)
-{
-	int n3;
-	n3 = n*n*n;
-	return n3;
+	for (int i = 1; i < esponente; i++)
+	{
+		n *= n;
+	}
+	return n;
 }
 void riempiarrayb(int lista1[], int lista2[], int n)
 {
 	for (int i = 0; i < n; i++)
 	{
-		lista2[i] = quadrato(lista1[i]);
+		lista2[i] = potenza(lista1[i], 2);
 	}
 }
 void riempiarrayc(int lista1[], int lista2[], int n)
 {
 	for (int i = 0; i < n; i++)
 	{
-		lista2[i] = cubo(lista1[i]);
+		lista2[i] = potenza(lista1[i], 3);
 	}
 }
 void stampaarray(int lista[], int n)
