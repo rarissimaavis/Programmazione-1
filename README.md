@@ -49,7 +49,8 @@
 - **intersezione**: genera un terzo vettore C che contiene l'intersezione tra due vettori A e B
 - **armstrong**: azzera i valori di un array che non sono numeri di Armstrong (somma cubi cifre = num) e stampa i valori rimanenti
 - **filtrosum**: copia in c gli elementi di a uguali alla somma di due elementi consecutivi di b
-- **numeroperfetto**: se un numero (inserito dall'utente) è perfetto, calcola il suo inverso (resto 2)
+- **numeroperfetto**: se un numero (inserito dall'utente) è perfetto, calcola il suo inverso (prova resto 2)
+- **filtradaesami**: azzera gli elementi di un array che non sono "da esame", cioè somma delle cifre = 6 (prova 2020)
 - **quadcubi**: stampa un array b e un array c con rispettivamente i quadrati e i cubi degli elementi di un array a inserito da tastiera (tutorato)
 ## puntatori: 
 - **azzera**: esempio passaggi di parametri per indirizzo per modificare una variabile
