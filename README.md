@@ -54,7 +54,7 @@
 - **quadcubi**: stampa un array b e un array c con rispettivamente i quadrati e i cubi degli elementi di un array a inserito da tastiera (tutorato)
 - **unisci**: costruisce un terzo array i cui elementi di posizione pari siano del primo e quelli di posizione dispari del secondo (tutorato)
 - **prodadiacenti**: costruisce un secondo array in modo che ogni suo elemento sia il prodotto di due elementi successivi nel primo (tutorato)
-- **allargacoppie**: per ogni coppia di elementi adiacenti in cui il primo è minore del secondo, sottrae 1 al primo e aggiunge 1 al secondo 
+- **allargacoppie**: per ogni coppia di elementi adiacenti in cui il primo è minore del secondo, sottrae 1 al primo e aggiunge 1 al secondo (prova 2017)
 ## puntatori: 
 - **azzera**: esempio passaggi di parametri per indirizzo per modificare una variabile
 - **divisioneintera**: esempio funzione con duplice risultato
