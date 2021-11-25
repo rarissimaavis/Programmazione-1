@@ -44,7 +44,7 @@
 - **tavolapitagorica**: rappresenta e stampa una tavola pitagorica
 - **ioarray**: inserisce valori in un array / stampa valori contenuti in un array
 - **bubblesort**: ordina un array scambiando elementi vicini e portando l'elemento maggiore alla fine
-- **compatta2**: genera un secondo vettore B che contiene i numeri contenuti nel primo vettore A senza ripetizioni (funzione ricerca)
+- **compatta2**: genera un secondo array B che contiene i numeri contenuti nel primo array A senza ripetizioni (funzione ricerca)
 - **matrice**: legge e stampa una matrice, calcola la somma, il minimo ed il massimo degli elementi (con 3 funzioni)
 - **intersezione**: genera un terzo vettore C che contiene l'intersezione tra due vettori A e B
 - **armstrong**: azzera i valori di un array che non sono numeri di Armstrong (somma cubi cifre = num) e stampa i valori rimanenti
@@ -52,7 +52,8 @@
 - **numeroperfetto**: se un numero è perfetto, calcola il suo inverso (prova resto 2)
 - **filtradaesami**: azzera gli elementi di un array che non sono "da esame", cioè somma delle cifre = 6 (prova 2020)
 - **quadcubi**: stampa un array b e un array c con rispettivamente i quadrati e i cubi degli elementi di un array a inserito da tastiera (tutorato)
-- **unisci**: costruisce un terzo vettore i cui elementi di posizione pari siano del primo e quelli di posizione dispari del secondo (tutorato)
+- **unisci**: costruisce un terzo array i cui elementi di posizione pari siano del primo e quelli di posizione dispari del secondo (tutorato)
+- **prodadiacenti**: costruisce un secondo array in modo che ogni suo elemento sia il prodotto di due elementi successivi nel primo
 ## puntatori: 
 - **azzera**: esempio passaggi di parametri per indirizzo per modificare una variabile
 - **divisioneintera**: esempio funzione con duplice risultato
