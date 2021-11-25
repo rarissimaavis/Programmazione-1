@@ -4,7 +4,7 @@ int getlista(double lista[], int n)
 {
 	int i;
 	double val;
-	printf("inserisci gli elementi (-1 per terminar): \n");
+	printf("inserisci gli elementi (-1 per terminare): \n");
 	for (i = 0; i < n; i++)
 	{
 		scanf("%lf", &val);
