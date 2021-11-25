@@ -13,7 +13,7 @@ void unisci(int a[], int b[], int c[], int n)
 	for (i = 0, k = 0; i < n; i++)
 	{
 		c[k] = a[i];
-		k +=2;
+		k += 2;
 	}
 	for (j = 0, k = 1; j < n; j++)
 	{
