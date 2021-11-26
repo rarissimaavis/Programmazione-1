@@ -57,6 +57,7 @@
 - **allargacoppie**: per ogni coppia di elementi adiacenti in cui il primo è minore del secondo, sottrae 1 al primo e somma 1 al secondo (prova 2017)
 - **stringicoppie**: per ogni coppia di elementi adiacenti in cui il secondo è maggiore del primo, somma 1 al primo e sottrae 1 al secondo (prova 2017)
 - **filtrodiff**: copia in c gli elementi di a uguali alla differenza di due elementi consecutivi di b (prova 2017)
+- **cancellanoiosi**: modifica una lista lasciando come elementi solo i numeri interessanti (dispari e congrui a 1 modulo 3)
 ## puntatori: 
 - **azzera**: esempio passaggi di parametri per indirizzo per modificare una variabile
 - **divisioneintera**: esempio funzione con duplice risultato
