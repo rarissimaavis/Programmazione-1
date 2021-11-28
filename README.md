@@ -59,6 +59,6 @@
 - **filtrodiff**: copia in c gli elementi di a uguali alla differenza di due elementi consecutivi di b (prova 2017)
 - **cancellanoiosi**: modifica una lista lasciando come elementi solo i numeri interessanti (dispari e congrui a 1 modulo 3)
 ## puntatori: 
-- **azzera**: esempio passaggi di parametri per indirizzo per modificare una variabile
+- **azzera**: esempio passaggio di parametri per indirizzo per modificare una variabile
 - **divisioneintera**: esempio funzione con duplice risultato
 - **maxmin**: massimo e minimo di un array
