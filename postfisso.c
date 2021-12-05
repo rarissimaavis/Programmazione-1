@@ -46,8 +46,8 @@ int main(void)
 {
 	int len1, len2;
 	char *p, s1[STR_LEN+1], s2[STR_LEN+1];
-	len1 = leggi(s1, STR_LEN);
-	len2 = leggi(s2, STR_LEN);
+	len1 = leggi(s1, STR_LEN+1);
+	len2 = leggi(s2, STR_LEN+1);
 	p = confronta_postfisso(s1, s2, len1, len2);
 	stampa(s1, s2, p);
 	return 0;
