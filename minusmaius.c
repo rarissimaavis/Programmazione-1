@@ -33,7 +33,7 @@ int main(void)
 {
 	int len;
 	char s[STR_LEN+1];
-	len = leggi(s, STR_LEN);
+	len = leggi(s, STR_LEN+1);
 	minus_maius(s, len);
 	printf("la stringa modificata è %s\n", s);
 	return 0;
