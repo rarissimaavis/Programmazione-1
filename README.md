@@ -62,3 +62,7 @@
 - **azzera**: esempio passaggio di parametri per indirizzo per modificare una variabile
 - **divisioneintera**: esempio funzione con duplice risultato
 - **maxmin**: massimo e minimo di un array
+## stringhe:
+- **postfisso**: verifica se una stringa è postfissa di un'altra e restituisce l'indirizzo in cui comincia il postfisso (strcmp, puntatori)
+- **minusmaius**: trasforma le maiuscole in minuscole e viceversa
+- **contachar**: conta occorrenze di una lettera in una stringa, sia in maiuscolo che in minuscolo (offset, isalpha)
