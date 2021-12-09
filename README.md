@@ -66,3 +66,12 @@
 - **postfisso**: verifica se una stringa è postfissa di un'altra e restituisce l'indirizzo in cui comincia il postfisso (strcmp, puntatori)
 - **minusmaius**: trasforma le maiuscole in minuscole e viceversa
 - **contachar**: conta occorrenze di una lettera in una stringa, sia in maiuscolo che in minuscolo (offset, isalpha)
+## allocazione dinamica:
+- **concat**: concatena due stringhe senza alterare le stringhe di input (esempio)
+- **leggistringatu**: funzione leggi_stringa fatta da Tu.c
+- **elenco_cognomi**: dato un certo nome, stampa un elenco di cognomi di persone con quel nome 
+- **xmalloc**: malloc con controllo
+- **iniziali**: restituisce una stringa formata dalle lettere iniziali delle stringhe non vuote e non nulle 
+## record:
+- **distanza**: calcola la distanza tra due punti (esempio)
+- **triangoliuguali**: verifica se due triangoli sono uguali 
