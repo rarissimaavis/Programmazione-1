@@ -69,7 +69,7 @@
 ## allocazione dinamica:
 - **concat**: concatena due stringhe senza alterare le stringhe di input (esempio)
 - **leggistringatu**: funzione leggi_stringa fatta da Tu.c
-- **elenco_cognomi**: dato un certo nome, stampa un elenco di cognomi di persone con quel nome 
+- **elencocognomi**: dato un certo nome, stampa un elenco di cognomi di persone con quel nome 
 - **xmalloc**: malloc con controllo
 - **iniziali**: restituisce una stringa formata dalle lettere iniziali delle stringhe non vuote e non nulle 
 ## record:
