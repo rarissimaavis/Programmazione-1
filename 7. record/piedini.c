@@ -12,7 +12,7 @@ typedef struct
 void leggi(char s[])
 {
     int len;
-    fgets(s, MAX_LEN, stdin);
+    fgets(s, MAX_LEN+1, stdin);
     len = strlen(s);
     if (s[len-1] == '\n')
     {
