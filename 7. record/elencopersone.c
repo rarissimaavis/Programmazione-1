@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include <ctype.h>
 #define MAX_LEN 20
 #define N_COD 16
 #define NUM_PERS 4
@@ -131,7 +130,6 @@ void stampa_cognomi(persona **tizi)
 }
 int main(void)
 {
-    int i, j;
     persona **persone;
     persone = riempi_elenco(persone);
     stampa_elenco(persone);
