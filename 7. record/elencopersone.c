@@ -116,7 +116,7 @@ void cerca_cf(persona **tizi)
 void stampa_cognomi(persona **tizi)
 {
     int i;
-    char cognome[MAX_LEN];
+    char cognome[MAX_LEN+1];
     printf("\nSottoelenco per cognome\ninserisci il cognome da cercare: ");
     leggi(cognome);
     printf("\nutenti corrispondenti:\n");
