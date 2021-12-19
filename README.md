@@ -75,3 +75,5 @@
 ## record:
 - **distanza**: calcola la distanza tra due punti (esempio)
 - **triangoliuguali**: verifica se due triangoli sono uguali 
+- **codicefiscale**: verifica che il formato di un codice fiscale sia LLLLLLCCLCCLCCCL 
+- **elencopersone**: crea e stampa un elenco di persone, cerca una persona in base a nome e cognome e in base al codice fiscale, crea un sottoelenco di persone con un determinato cognome
