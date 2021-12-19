@@ -76,7 +76,7 @@ void stampa_elenco(persona **tizi)
 void cerca_nome_e_cognome(persona **tizi)
 {
     int i;
-    char nome[MAX_LEN], cognome[MAX_LEN];
+    char nome[MAX_LEN+1], cognome[MAX_LEN+1];
     printf("\nRicerca per nome e cognome\ninserisci il nome da cercare: ");
     leggi(nome);
     printf("inserisci il cognome da cercare: ");
@@ -97,7 +97,7 @@ void cerca_nome_e_cognome(persona **tizi)
 void cerca_cf(persona **tizi)
 {
     int i;
-    char cf[N_COD];
+    char cf[N_COD+1];
     printf("\nRicerca per codice fiscale\ninserisci il codice fiscale da cercare: ");
     leggi(cf);
     for (i = 0; i < NUM_PERS; i++)
