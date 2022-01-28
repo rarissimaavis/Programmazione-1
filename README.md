@@ -81,5 +81,6 @@
 - **rettangoligrandi**: copia in un array i rettangoli con area maggiore di un'area data (prova 2021)
 - **rettangolipiccoli**: copia in un array i rettangoli con area minore di un rettangolo dato (esame 16/07/21)
 - **film**: copia in un array i film di un regista dato (esame 01/07/21)
+- **librinuovi**: copia in un array i libri pubblicati da un certo anno in poi (esame 12 01 22)
 ## file:
 - **salvarettangoli**: salva in un file i rettangoli con area minore di un rettangolo dato (esame 16/07/21)
