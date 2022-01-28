@@ -73,6 +73,7 @@
 - **xmalloc**: malloc con controllo
 - **iniziali**: riceve un array di stringhe e restituisce una stringa allocata dinamicamente formata dalle lettere iniziali delle stringhe non vuote e non nulle 
 - **intersez**: riceve due array di interi e restituisce un array allocato dinamicamente con i loro elementi in comune (esame 09 01 18)
+- **diff**: riceve un array di double e restituisce un array allocato dinamicamente con le differenze fra elementi successivi
 ## record:
 - **distanza**: calcola la distanza tra due punti (esempio)
 - **triangoliuguali**: verifica se due triangoli sono uguali 
