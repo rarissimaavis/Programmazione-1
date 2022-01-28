@@ -78,3 +78,8 @@
 - **codicefiscale**: verifica che il formato di un codice fiscale sia LLLLLLCCLCCLCCCL 
 - **elencopersone**: crea e stampa un elenco di persone, cerca una persona in base a nome e cognome e in base al codice fiscale, crea un sottoelenco di persone con un determinato cognome
 - **piedini**: contenuto bonus per chi ha un foot fetish
+- **rettangoligrandi**: copia in un array i rettangoli con area maggiore di un'area data (prova 2021)
+- **rettangolipiccoli**: copia in un array i rettangoli con area minore di un rettangolo dato (esame 16/07/21)
+- **film**: copia in un array i film di un regista dato (esame 01/07/21)
+## file:
+- **salvarettangoli**: salva in un file i rettangoli con area minore di un rettangolo dato (esame 16/07/21)
