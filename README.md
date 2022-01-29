@@ -86,3 +86,5 @@
 - **librinuovi**: copia in un array i libri pubblicati da un certo anno in poi (esame 12 01 22)
 ## file:
 - **salvarettangoli**: salva in un file i rettangoli con area minore di un rettangolo dato (esame 16/07/21)
+- **spesa**: riceve un array scontrino e restituisce l'importo totale degli acquisti (esame 15 01 21)
+- **giocatore**: salva nel file i dati dei giocatori il cui nickname inizia con la lettera specificata (esame 23 01 18)
