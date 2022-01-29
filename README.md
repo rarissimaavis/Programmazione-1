@@ -90,3 +90,4 @@
 - **spesa**: riceve un array scontrino e restituisce l'importo totale degli acquisti (esame 15 01 21)
 - **giocatore**: salva nel file i dati dei giocatori il cui nickname inizia con la lettera specificata (esame 23 01 18)
 - **minori**: scrive in un file un valore, il numero di elementi con valore inferiore, poi i valori stessi (esame 03 02 21)
+- **copianuovi**: copia in un file i libri pubblicati da un certo anno in poi (esame 12 01 22)
