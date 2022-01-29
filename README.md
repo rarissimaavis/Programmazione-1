@@ -89,3 +89,4 @@
 - **spartiacque**: scrive in un file le stringhe che in ordine alfabetico precedono la stringa spartiacque (esame 09 01 18)
 - **spesa**: riceve un array scontrino e restituisce l'importo totale degli acquisti (esame 15 01 21)
 - **giocatore**: salva nel file i dati dei giocatori il cui nickname inizia con la lettera specificata (esame 23 01 18)
+- **minori**: scrive in un file un valore, il numero di elementi con valore inferiore, poi i valori stessi (esame 03 02 21)
