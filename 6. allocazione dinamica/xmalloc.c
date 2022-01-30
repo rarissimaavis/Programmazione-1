@@ -9,3 +9,14 @@ void *xmalloc(size_t nbytes)
     }
     return p;
 }
+
+void *xmalloc(size_t nbytes) 
+{
+    void *result;
+    if ((result = malloc(nbytes)) == NULL)
+    {
+        fprintf(stderr, "malloc(%lu) failed. Exiting.\n", nbytes);
+        exit(-1);
+    }
+    return result;
+}
