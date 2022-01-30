@@ -44,7 +44,7 @@ void salva_minori(FILE *fout, int A[], int n, int val)
         error_fwrite(sizeof(int, 1));
     }
     minori = elementi_minori(A, n, val, &size);
-    if (minori == 0)
+    if (minori == NULL)
     {
         return NULL;
     }

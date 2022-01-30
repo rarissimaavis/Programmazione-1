@@ -92,3 +92,4 @@
 - **minori**: scrive in un file un valore, il numero di elementi con valore inferiore, poi i valori stessi (esame 03/02/21)
 - **copianuovi**: copia in un file i libri pubblicati da un certo anno in poi (esame 12/01/22)
 - **filmreg**: legge un file e restituisce un array allocato dinamicamente con i film del regista specificato (esame 01/07/21)
+- **loaddouble**: legge un file e crea un array di double allocato dinamicamente (esame 17/02/21)
