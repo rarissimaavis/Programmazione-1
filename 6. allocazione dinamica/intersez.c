@@ -28,12 +28,7 @@ int *intersez(int x[], int sizex, int y[], int sizey, int *newsize)
     {
         return NULL;
     }
-    result = malloc(quanti * sizeof(int));
-    if (result == NULL)
-    {
-        fprintf(stderr, "malloc(%d) failed.\n", quanti * sizeof(int));
-        exit(1);
-    }
+    result = xmalloc(quanti * sizeof(int));
     for (i = 0, j = 0; i < sizex; i++)
     {
         if (is_in(x[i], y, sizey))
