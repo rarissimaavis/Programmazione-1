@@ -72,9 +72,10 @@
 - **elencocognomi**: riceve un elenco di nomi e cognomi (array bi di stringhe allocate dinamicamente) e dato un certo nome stampa i cognomi corrispondenti
 - **xmalloc**: malloc con controllo
 - **iniziali**: riceve un array di stringhe e restituisce una stringa allocata dinamicamente formata dalle lettere iniziali delle stringhe non vuote e non nulle 
-- **intersez**: riceve due array di interi e restituisce un array allocato dinamicamente con i loro elementi in comune (esame 09 01 18)
-- **diff**: riceve un array di double e restituisce un array allocato dinamicamente con le differenze fra elementi successivi
-- **diagonale**: riceve un array di stringhe e restituisce una stringa allocata dinamicamente che ha nell'i-esima posizione l'i-esimo carattere dell'i-esima riga
+- **intersez**: riceve due array di interi e restituisce un array allocato dinamicamente con i loro elementi in comune (esame 09/01/18)
+- **diff**: riceve un array di double e restituisce un array allocato dinamicamente con le differenze fra elementi successivi (esame 23/01/18)
+- **diagonale**: riceve un array di stringhe e restituisce una stringa allocata dinamicamente che ha nell'i-esima posizione l'i-esimo carattere dell'i-esima riga (esame 14/02/20)
+- **multipli**: riceve un array di interi e restituidce un array allocato dinamicamente con tutti i multipli di val contenuti nell'array (esame 01/02/22)
 ## record:
 - **distanza**: calcola la distanza tra due punti (esempio)
 - **triangoliuguali**: verifica se due triangoli sono uguali 
