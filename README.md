@@ -1,4 +1,7 @@
 # Esercizi Programmazione 1 💻📘
+
+https://magenta-squirrel-e2f.notion.site/P1-9979ecfbad3d452997f4910e9c5cb5db
+
 ## primi programmini abbastanza inutili:
 - **tabella**: sequenze di escape
 - **precesucc**: legge un intero e visualizza il valore intero precedente e il successivo
